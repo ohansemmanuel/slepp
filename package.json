@@ -1,0 +1,27 @@
+{
+  "name": "slepp",
+  "version": "1.0.0",
+  "description": "Simple HTML + CSS Starter pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohansemmanuel/slepp.git"
+  },
+  "keywords": [
+    "live-reload",
+    "html",
+    "css"
+  ],
+  "author": "Ohans Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohansemmanuel/slepp/issues"
+  },
+  "homepage": "https://github.com/ohansemmanuel/slepp#readme",
+  "devDependencies": {
+    "live-reload": "^1.1.0"
+  }
+}
